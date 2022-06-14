@@ -10,3 +10,5 @@
   PyQt5.QtWebEngineWidgets
   
 # Sys
+
+Download EXE file - https://disk.yandex.ru/d/vhezbwmbZ6zErg
